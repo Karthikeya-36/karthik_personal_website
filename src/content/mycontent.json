@@ -16,7 +16,7 @@
 
 ],
 
-"MainImage": "https://i.imgur.com/his2a44.jpg",
+"MainImage": "https://imgur.com/ACIBW2j",
 
 "BackgroundURL": "",
 
@@ -50,7 +50,7 @@
 
 "InternShips": [{
 
-"name": "Amazon India",
+"name": "ITC LTD",
 
 "link": "#"
 
@@ -58,7 +58,7 @@
 
 {
 
-"name": "North-Eastern Space Application Center (ISRO)",
+"name": "Unschool",
 
 "link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
 
@@ -74,40 +74,9 @@
 
 ],
 
-"ProjectsStartLine": "Some of the side projects I did can be found here :",
+"ProjectsStartLine": "",
 
-"Projects": [{
-
-"name": "EisenList",
-
-"link": "https://github.com/adityaketkar/eisenlist"
-
-},
-
-{
-
-"name": "DelOr",
-
-"link": "https://bitsdelor.wixsite.com/delor"
-
-},
-
-{
-
-"name": "Alexa Music Companion",
-
-"link": "https://medium.com/@ketkaraditya/hey-alexa-meet-music-1f7319750af7"
-
-},
-
-{
-
-"name": "Gatsby Personal Webpage",
-
-"link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
-
-}
-
+"Projects": [
 ],
 
 
