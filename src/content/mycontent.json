@@ -3,7 +3,7 @@
 	"Name": "Karthikeya Rao",
 	"Description": [
 		"I would describe myself as someone who is Passionate, Highly-motivated, and I particularly enjoy working as a part of a team.",
-		"I grab every chance I get to travel, learn and create."
+		"I grab every chance I get to travel, learn and create.",
 		"I am confident in my abilities to produce and while I prepare for the worst, I do the work necessary to tilt the odds that the best will happen."
 	],
 	"MainImage": "https://i.imgur.com/his2a44.jpg",
@@ -11,7 +11,7 @@
 
 	"AboutImage": "https://i.imgur.com/5sOLND6.jpg",
 	"AboutContent": [
-		"I’m a Computer Science major by day, a Table Tennis player by evening, a functional wantrepreneur by midnight and a hustler always.",
+		"I’m a Electronics & Communication major by day, a Badminton player by evening, a functional wantrepreneur by midnight and a hustler always.",
 		"If you can’t find me, it’s because I’m already cycling, off to a hike, or studying for an exam",
 		"I am passionate about Space Technology and Human Psychology (though, never studied them formally). A die-hard fan of Elon Musk.",
 		"I love the way the concept of \"work\" has evolved over the past decades, and hence would love to travel and work together whenever I can."
@@ -54,13 +54,12 @@
 		}
 	],
 
-	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
-	"CV": "https://www.visualcv.com/aditya-ketkar/",
+	"ResumeStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
+	
 	"Resume": "https://drive.google.com/file/d/1M1Vw1J7Yc3BFIgzJXX4_U-_nfIXCfK8n/view?usp=sharing",
 
 	"emailid": "mailto:karthikrao362000@gmail.com",
-	"linkedin": "https://www.linkedin.com/in/karthikeya-rao-a43501190/",
-	"facebook": "https://www.facebook.com/karthik.tikkireddi.9",
-	
+	"linkedin": "https://www.linkedin.com/in/karthikeya-rao-a43501190/",	
+	"facebook": "https://www.facebok.com/karthik.tikkireddi.9"
 	
 }
