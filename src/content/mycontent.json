@@ -17,6 +17,21 @@
 		"I love the way the concept of \"work\" has evolved over the past decades, and hence would love to travel and work together whenever I can."
 	],
 
+	"WorkContent": [
+		"I am currently looking for an Intrested Recruiter."
+	],
+	"WorkImage": "",
+	"InternshipsStartLine": "Previously, I have interned with :",
+	"InternShips": [{
+			"name": "ITC LTD",
+			
+		},
+		{
+			"name": "UnSchool.in",
+			"link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
+		}
+		
+	],
 	
 
 	"ResumeStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",	
