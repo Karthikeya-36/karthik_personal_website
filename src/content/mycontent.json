@@ -40,7 +40,7 @@
 
 "WorkContent": [
 
-"I am currently full time Software Developer Engineer at Microsoft."
+"I am currently looking for an Interested Recruiter."
 
 ],
 
@@ -50,7 +50,7 @@
 
 "InternShips": [{
 
-"name": "ITC LTD",
+"name": "Amazon India",
 
 "link": "#"
 
@@ -58,13 +58,19 @@
 
 {
 
-"name": "Unschool",
+"name": "North-Eastern Space Application Center (ISRO)",
 
-"link": "#"
+"link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
 
 },
 
+{
 
+"name": "Computer Vision Center, Universitat Autonoma de Barcelona",
+
+"link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
+
+}
 
 ],
 
@@ -76,8 +82,31 @@
 
 "link": "https://github.com/adityaketkar/eisenlist"
 
-}
+},
 
+{
+
+"name": "DelOr",
+
+"link": "https://bitsdelor.wixsite.com/delor"
+
+},
+
+{
+
+"name": "Alexa Music Companion",
+
+"link": "https://medium.com/@ketkaraditya/hey-alexa-meet-music-1f7319750af7"
+
+},
+
+{
+
+"name": "Gatsby Personal Webpage",
+
+"link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
+
+}
 
 ],
 
@@ -98,4 +127,3 @@
 "facebook": "https://www.facebok.com/karthik.tikkireddi.9"
 
 }
-
