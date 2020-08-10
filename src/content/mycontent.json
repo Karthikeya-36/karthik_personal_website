@@ -40,11 +40,11 @@
 
 "WorkContent": [
 
-"I am currently looking for an Intrested Recruiter."
+"I am currently full time Software Developer Engineer at Microsoft."
 
 ],
 
-"WorkImage": "",
+"WorkImage": "https://i.imgur.com/BHt1YKg.png",
 
 "InternshipsStartLine": "Previously, I have interned with :",
 
@@ -52,15 +52,15 @@
 
 "name": "ITC LTD",
 
-"link": ""
+"link": "#"
 
 },
 
 {
 
-"name": "UnSchool",
+"name": "Unschool",
 
-"link": ""
+"link": "#"
 
 },
 
@@ -68,7 +68,18 @@
 
 ],
 
+"ProjectsStartLine": "Some of the side projects I did can be found here :",
 
+"Projects": [{
+
+"name": "EisenList",
+
+"link": "https://github.com/adityaketkar/eisenlist"
+
+}
+
+
+],
 
 
 
@@ -82,8 +93,9 @@
 
 "emailid": "mailto:karthikrao362000@gmail.com",
 
-"linkedin": "https://www.linkedin.com/in/karthikeya-rao-a43501190", 
+"linkedin": " www.linkedin.com/in/karthikeya-rao-a43501190", 
 
 "facebook": "https://www.facebok.com/karthik.tikkireddi.9"
 
 }
+
