@@ -23,22 +23,42 @@
 	"WorkImage": "",
 	"InternshipsStartLine": "Previously, I have interned with :",
 	"InternShips": [{
-			"name": "ITC LTD"
-			
+			"name": "ITC LTD",
+			"link": ""
 		},
 		{
-			"name": "UnSchool"
-			
+			"name": "UnSchool",
+			"link": ""
+		},
+		{
+			"name": "",
+			"link": ""
 		}
-		
 	],
-	
+	"": "",
+	"Projects": [{
+			"name": "",
+			"link": ""
+		},
+		{
+			"name": "",
+			"link": ""
+		},
+		{
+			"name": "",
+			"link": ""
+		},
+		{
+			"name": "",
+			"link": ""
+		}
+	],
 
-	"ResumeStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",	
+	"ResumeStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
 	"Resume": "https://drive.google.com/file/d/1M1Vw1J7Yc3BFIgzJXX4_U-_nfIXCfK8n/view?usp=sharing",
 
 	"emailid": "mailto:karthikrao362000@gmail.com",
 	"linkedin": "https://www.linkedin.com/in/karthikeya-rao-a43501190/",	
-	"facebook": "https://www.facebok.com/karthik.tikkireddi.9"
+	"facebook": "https://www.facebok.com/karthik.tikkireddi.9",
 	
 }
