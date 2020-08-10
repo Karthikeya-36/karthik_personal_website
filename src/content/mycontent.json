@@ -40,75 +40,35 @@
 
 "WorkContent": [
 
-"I am currently full time Software Developer Engineer at Microsoft."
+"I am currently looking for an Intrested Recruiter."
 
 ],
 
-"WorkImage": "https://i.imgur.com/BHt1YKg.png",
+"WorkImage": "",
 
 "InternshipsStartLine": "Previously, I have interned with :",
 
 "InternShips": [{
 
-"name": "Amazon India",
+"name": "ITC LTD",
 
-"link": "#"
-
-},
-
-{
-
-"name": "North-Eastern Space Application Center (ISRO)",
-
-"link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
+"link": ""
 
 },
 
 {
 
-"name": "Computer Vision Center, Universitat Autonoma de Barcelona",
+"name": "UnSchool",
 
-"link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
+"link": ""
 
-}
+},
+
+
 
 ],
 
-"ProjectsStartLine": "Some of the side projects I did can be found here :",
 
-"Projects": [{
-
-"name": "EisenList",
-
-"link": "https://github.com/adityaketkar/eisenlist"
-
-},
-
-{
-
-"name": "DelOr",
-
-"link": "https://bitsdelor.wixsite.com/delor"
-
-},
-
-{
-
-"name": "Alexa Music Companion",
-
-"link": "https://medium.com/@ketkaraditya/hey-alexa-meet-music-1f7319750af7"
-
-},
-
-{
-
-"name": "Gatsby Personal Webpage",
-
-"link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
-
-}
-
-],
 
 
 
@@ -122,7 +82,7 @@
 
 "emailid": "mailto:karthikrao362000@gmail.com",
 
-"linkedin": "https://www.linkedin.com/in/karthikeya-rao-a43501190/", 
+"linkedin": "https://www.linkedin.com/in/karthikeya-rao-a43501190", 
 
 "facebook": "https://www.facebok.com/karthik.tikkireddi.9"
 
