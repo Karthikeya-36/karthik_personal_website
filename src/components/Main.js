@@ -87,15 +87,15 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major"> CV </h2>
+          <h2 className="major"> Resume </h2>
           {/* <span className="image main">
             <img  />
           </span> */}
           {/* <p> */}
-            {JSONData.CVStartLine}
+            {JSONData.ResumeStartLine}
             <br/><br/>
             <div style={{"display":"flex", "justifyContent":"space-around"}}>
-              <a href={JSONData.CV} >CV </a>
+              <a href={JSONData.CV} >Resume </a>
             
             </div>
           {/* </p> */}
